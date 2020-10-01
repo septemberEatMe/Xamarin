@@ -1,0 +1,14 @@
+D:\Code\Xamarin\UTAS\UTAS\bin\Debug\netstandard2.0\UTAS.deps.json
+D:\Code\Xamarin\UTAS\UTAS\bin\Debug\netstandard2.0\UTAS.dll
+D:\Code\Xamarin\UTAS\UTAS\bin\Debug\netstandard2.0\ref\UTAS.dll
+D:\Code\Xamarin\UTAS\UTAS\bin\Debug\netstandard2.0\UTAS.pdb
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\UTAS.csprojAssemblyReference.cache
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\UTAS.AssemblyInfoInputs.cache
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\UTAS.AssemblyInfo.cs
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\UTAS.csproj.CoreCompileInputs.cache
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\UTAS.dll
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\ref\UTAS.dll
+D:\Code\Xamarin\UTAS\UTAS\obj\Debug\netstandard2.0\UTAS.pdb
