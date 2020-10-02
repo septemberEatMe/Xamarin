@@ -1,13 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="UTAS.MainPage">
+             x:Class="UTAS.MainPage"
+             BackgroundColor="Black"
+             >
+    <ScrollView>
+        <StackLayout x:Name="StackLayout" Orientation="Vertical">
+            <Image Source="back.png"></Image>
+            <Label Text="Blackout Security Squad Team Dev" TextColor="#00FF00" HorizontalOptions="Center" FontSize="Large" FontAttributes="Bold"></Label>
+            <Button x:Name="ScanButton" Text="Хакнуть Сетку" Clicked="ScanNetButton" ></Button>
+            <Label x:Name="TextBox" Text="сканируем IP"></Label>
+        </StackLayout>
+    </ScrollView>
     
-    <StackLayout x:Name="StackLayout">
-        <Label Text="Blacout Security Squad Team Dev"></Label>
-        <Button x:Name="Scan_Net_Button" Text="Хакнуть сеть"></Button>
-        <Button x:Name="Stop_Scan_Button" Text="Стоп"></Button>
-    </StackLayout>
-    
+        
     
 </ContentPage>
